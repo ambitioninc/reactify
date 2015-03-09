@@ -15,7 +15,7 @@
     "semver": "~1.1.4"
   },
   "peerDependencies": {
-    "react-tools": ">=0.12.1"
+    "react-tools": ">=0.13.0-rc2"
   },
   "repository": {
     "type": "git",
